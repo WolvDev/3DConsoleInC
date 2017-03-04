@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1484218206 source:j:\desktop\3d\3d\3drender.c
+	"3DRender.h"
+	<math.h>
+	"Ekran.h"
+
+1484818533 j:\desktop\3d\3d\3drender.h
+	"Vector.h"
+	"Mesh.h"
+	"Camera.h"
+	<stdio.h>
+	<math.h>
+
+1483457697 j:\desktop\3d\3d\vector.h
+	<math.h>
+
+1484819227 source:j:\desktop\3d\3d\debuglog.c
+	"DebugLog.h"
+
+1484819033 j:\desktop\3d\3d\debuglog.h
+	"Vector.h"
+	<time.h>
+	<stdio.h>
+
+1484818533 source:j:\desktop\3d\3d\ekran.c
+	"Ekran.h"
+
+1484218206 j:\desktop\3d\3d\ekran.h
+	"Vector.h"
+
+1484214475 source:j:\desktop\3d\3d\fileio.c
+	"FileIO.h"
+
+1484215752 j:\desktop\3d\3d\fileio.h
+	<stdio.h>
+	"Vector.h"
+
+1484216529 j:\desktop\3d\3d\mesh.h
+	"Vector.h"
+
+1487594324 source:j:\desktop\3d\3d\main.c
+	"3DRender.h"
+	"DebugLog.h"
+	"FileIO.h"
+	"Ekran.h"
+	"Mesh.h"
+
+1484218206 j:\desktop\3d\3d\camera.h
+
+1484218093 source:j:\desktop\3d\3d\camera.c
+

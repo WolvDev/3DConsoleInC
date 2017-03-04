@@ -1,0 +1,2 @@
+Frames per second:965
+Time passed: 20 seconds
